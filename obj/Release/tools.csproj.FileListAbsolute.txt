@@ -1,0 +1,13 @@
+E:\tools\bin\Release\tools.exe.config
+E:\tools\bin\Release\tools.exe
+E:\tools\obj\Release\ResolveAssemblyReference.cache
+E:\tools\obj\Release\tools.Form1.resources
+E:\tools\obj\Release\tools.csproj.GenerateResource.Cache
+E:\tools\obj\Release\tools.exe
+D:\huanqiu\tools\bin\Release\tools.exe.config
+D:\huanqiu\tools\obj\Release\tools.exe
+D:\huanqiu\tools\bin\Release\tools.exe
+D:\huanqiu\tools\obj\Release\ResolveAssemblyReference.cache
+D:\huanqiu\tools\obj\Release\GenerateResource.read.1.tlog
+D:\huanqiu\tools\obj\Release\GenerateResource.write.1.tlog
+D:\huanqiu\tools\obj\Release\tools.Tools.resources

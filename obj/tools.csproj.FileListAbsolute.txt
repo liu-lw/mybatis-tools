@@ -1,0 +1,14 @@
+E:\tools\bin\Debug\tools.exe.config
+E:\tools\obj\Debug\tools.exe
+E:\tools\obj\Debug\tools.pdb
+E:\tools\bin\Debug\tools.exe
+E:\tools\obj\Debug\ResolveAssemblyReference.cache
+E:\tools\obj\Debug\tools.Form1.resources
+E:\tools\obj\Debug\tools.csproj.GenerateResource.Cache
+E:\tools\bin\Debug\tools.pdb
+E:\tools\bin\Release\tools.exe.config
+E:\tools\bin\Release\tools.exe
+E:\tools\obj\Release\ResolveAssemblyReference.cache
+E:\tools\obj\Release\tools.Form1.resources
+E:\tools\obj\Release\tools.csproj.GenerateResource.Cache
+E:\tools\obj\Release\tools.exe

@@ -1,0 +1,9 @@
+obj\Debug\tools.exe
+obj\Debug\tools.pdb
+bin\Debug\tools.exe
+bin\Debug\tools.pdb
+bin\Debug\PinkieControls.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\tools.Form1.resources
+obj\Debug\tools.csproj.GenerateResource.Cache
+bin\Debug\tools.exe.config
